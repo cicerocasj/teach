@@ -1,0 +1,336 @@
+datahora,satelite,pais,estado,municipio,bioma,diasemchuva,precipitacao,riscofogo,latitude,longitude,frp
+2019/05/23 12:55:00,AQUA_M-T,United Kingdom,England,Cambridgeshire,,0,0,0,52.411,0.082,18.5
+2019/07/25 12:10:00,AQUA_M-T,United Kingdom,England,Redcar and Cleveland,,0,0,0,54.573,-1.103,67.7
+2019/07/25 12:10:00,AQUA_M-T,United Kingdom,England,Redcar and Cleveland,,0,0,0,54.566,-1.13,27.2
+2019/07/25 13:50:00,AQUA_M-T,United Kingdom,England,Redcar and Cleveland,,0,0,0,54.573,-1.146,66.7
+2019/01/08 12:50:00,AQUA_M-T,United Kingdom,Scotland,Scottish Borders,,0,0,0,55.852,-2.526,9.5
+2019/01/08 12:50:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.486,-0.926,10.1
+2019/01/08 12:50:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.36,-1.024,13.7
+2019/01/08 12:50:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.19,-1.806,8.7
+2019/01/15 12:55:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.009,-2.034,13.8
+2019/01/15 12:55:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.007,-2.049,7.5
+2019/01/24 12:50:00,AQUA_M-T,United Kingdom,Scotland,Aberdeenshire,,0,0,0,57.642,-2.023,8.8
+2019/01/28 12:25:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.562,-0.598,13.4
+2019/07/28 12:40:00,AQUA_M-T,United Kingdom,England,Berkshire,,0,0,0,51.518,-1.363,8.7
+2019/09/05 12:45:00,AQUA_M-T,United Kingdom,England,West Sussex,,0,0,0,51.151,-0.18,2.8
+2019/09/08 13:20:00,AQUA_M-T,United Kingdom,England,Worcestershire,,0,0,0,52.129,-2.327,3.4
+2019/09/10 13:05:00,AQUA_M-T,United Kingdom,England,Cornwall,,0,0,0,50.284,-5.204,5.1
+2019/09/10 13:05:00,AQUA_M-T,United Kingdom,England,Cornwall,,0,0,0,50.288,-5.139,8.3
+2019/09/10 13:05:00,AQUA_M-T,United Kingdom,England,Cornwall,,0,0,0,50.337,-4.936,4.8
+2019/09/10 13:05:00,AQUA_M-T,United Kingdom,England,Cornwall,,0,0,0,50.285,-5.153,12.1
+2019/09/11 12:10:00,AQUA_M-T,United Kingdom,England,Cheshire,,0,0,0,53.268,-2.835,16.7
+2019/09/16 12:30:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.564,-0.601,7.3
+2019/09/17 13:10:00,AQUA_M-T,United Kingdom,England,Lincolnshire,,0,0,0,53.564,-0.182,4.1
+2019/09/17 13:10:00,AQUA_M-T,United Kingdom,England,Lincolnshire,,0,0,0,53.347,0.012,11
+2019/09/17 13:10:00,AQUA_M-T,United Kingdom,England,Hampshire,,0,0,0,51.31,-1.172,5.4
+2019/02/15 12:10:00,AQUA_M-T,United Kingdom,Scotland,Angus,,0,0,0,56.93,-2.81,25.8
+2019/09/19 13:00:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.097,-3.305,5
+2019/09/19 13:00:00,AQUA_M-T,United Kingdom,England,South Yorkshire,,0,0,0,53.394,-1.388,29.1
+2019/09/19 13:00:00,AQUA_M-T,United Kingdom,England,Buckinghamshire,,0,0,0,51.904,-0.958,4.1
+2019/09/19 13:00:00,AQUA_M-T,United Kingdom,England,Buckinghamshire,,0,0,0,51.895,-0.955,4.6
+2019/09/21 12:45:00,AQUA_M-T,United Kingdom,England,Wiltshire,,0,0,0,51.042,-1.84,6.2
+2019/09/21 12:45:00,AQUA_M-T,United Kingdom,England,West Sussex,,0,0,0,50.808,-0.725,3.8
+2019/09/21 12:45:00,AQUA_M-T,United Kingdom,England,Gloucestershire,,0,0,0,52.016,-1.811,5.4
+2019/09/21 12:45:00,AQUA_M-T,United Kingdom,England,Oxfordshire,,0,0,0,51.79,-1.419,7
+2019/09/21 12:45:00,AQUA_M-T,United Kingdom,England,Oxfordshire,,0,0,0,51.788,-1.434,11.6
+2019/09/21 12:45:00,AQUA_M-T,United Kingdom,England,Oxfordshire,,0,0,0,51.612,-1.361,7.5
+2019/09/21 12:45:00,AQUA_M-T,United Kingdom,England,Hampshire,,0,0,0,51.33,-0.855,4
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,England,Cumbria,,0,0,0,54.773,-3.333,4.5
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,England,West Yorkshire,,0,0,0,53.707,-1.572,7.6
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.568,-0.599,4.9
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,England,Leicestershire,,0,0,0,52.753,-1.442,10.9
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,England,Manchester,,0,0,0,53.479,-2.444,4.2
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,Scotland,Moray,,0,0,0,57.527,-3.22,8.6
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.099,-3.309,5.1
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,Scotland,Falkirk,,0,0,0,56.01,-3.667,3.8
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,Scotland,Falkirk,,0,0,0,56.007,-3.683,6.8
+2019/09/21 12:50:00,AQUA_M-T,United Kingdom,England,Cumbria,,0,0,0,54.775,-3.317,12.1
+2019/09/23 12:35:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.094,-3.314,5.4
+2019/09/23 12:35:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.566,-0.6,11
+2019/09/23 12:35:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.563,-0.591,7.4
+2019/06/06 13:05:00,AQUA_M-T,United Kingdom,England,South Yorkshire,,0,0,0,53.49,-0.976,8.7
+2019/06/06 13:05:00,AQUA_M-T,United Kingdom,England,Kent,,0,0,0,51.333,1.406,3.9
+2019/10/02 12:30:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.095,-3.305,9.6
+2019/10/26 13:20:00,AQUA_M-T,United Kingdom,Scotland,Falkirk,,0,0,0,56.005,-3.676,10.6
+2019/10/30 12:55:00,AQUA_M-T,United Kingdom,Scotland,Falkirk,,0,0,0,56.004,-3.691,7.9
+2019/08/02 13:00:00,AQUA_M-T,United Kingdom,England,Cheshire,,0,0,0,53.102,-2.474,6.3
+2019/12/08 13:00:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.567,-0.61,11.7
+2019/02/21 13:10:00,AQUA_M-T,United Kingdom,England,Herefordshire,,0,0,0,52.132,-2.691,8.4
+2019/08/04 12:45:00,AQUA_M-T,United Kingdom,England,West Sussex,,0,0,0,50.858,-0.791,6.6
+2019/02/23 13:00:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.33,-1.888,69.9
+2019/02/23 13:00:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.328,-1.904,33.9
+2019/02/23 13:00:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.237,-2.022,7.6
+2019/02/23 13:00:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.235,-2.037,8.5
+2019/02/23 13:00:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.166,-1.712,7.4
+2019/02/23 13:00:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.164,-1.728,7.2
+2019/02/23 13:00:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.561,-0.593,5.6
+2019/02/25 12:45:00,AQUA_M-T,United Kingdom,England,Devon,,0,0,0,50.57,-3.823,18.2
+2019/02/25 12:50:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.338,-1.847,8.2
+2019/02/25 12:50:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.675,-1.997,8.1
+2019/02/25 12:50:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.407,-1.066,8.7
+2019/02/25 12:50:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,53.993,-1.797,4.9
+2019/02/25 12:50:00,AQUA_M-T,United Kingdom,Wales,Conwy,,0,0,0,53.147,-3.851,6
+2019/02/25 12:50:00,AQUA_M-T,United Kingdom,England,Leicestershire,,0,0,0,52.686,-1.351,7.8
+2019/02/25 12:50:00,AQUA_M-T,United Kingdom,England,Cambridgeshire,,0,0,0,52.314,-0.388,5.9
+2019/02/25 12:50:00,AQUA_M-T,United Kingdom,England,Devon,,0,0,0,50.653,-4.091,12.1
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Scotland,Aberdeenshire,,0,0,0,57.152,-2.966,15.8
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Scotland,South Lanarkshire,,0,0,0,55.744,-3.493,11.7
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Scotland,Scottish Borders,,0,0,0,55.56,-3.227,17.7
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Scotland,Scottish Borders,,0,0,0,55.558,-3.253,38
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Scotland,South Lanarkshire,,0,0,0,55.532,-3.738,36.1
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.18,-2.047,14.8
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.172,-2.067,13
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.044,-2.267,11.6
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.521,-2.072,12.3
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.516,-2.066,15.5
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.308,-0.929,15.8
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,West Yorkshire,,0,0,0,53.782,-2.061,10.2
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Wales,Denbighshire,,0,0,0,52.94,-3.258,14.5
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Wales,Denbighshire,,0,0,0,52.931,-3.371,10.2
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Wales,Ceredigion,,0,0,0,52.185,-3.822,29.8
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Wales,Ceredigion,,0,0,0,52.183,-3.842,13.6
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Wales,Ceredigion,,0,0,0,52.139,-3.852,7
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,Wales,Carmarthenshire,,0,0,0,52.09,-3.854,6.4
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Somerset,,0,0,0,51.199,-3.64,23.8
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Somerset,,0,0,0,51.197,-3.66,22.7
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Somerset,,0,0,0,51.196,-3.68,31
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Somerset,,0,0,0,51.194,-3.699,22.2
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Somerset,,0,0,0,51.158,-3.231,17.7
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,Somerset,,0,0,0,51.156,-3.251,8
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,East Sussex,,0,0,0,51.051,0.046,10.1
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,East Sussex,,0,0,0,51.049,0.021,28.8
+2019/02/26 13:30:00,AQUA_M-T,United Kingdom,England,West Sussex,,0,0,0,51.049,0.016,21.2
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.419,-3.627,11.4
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Scotland,Aberdeenshire,,0,0,0,57.25,-2.989,12.7
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Scotland,Angus,,0,0,0,56.846,-2.772,10
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Scotland,Angus,,0,0,0,56.783,-2.928,11.4
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Scotland,East Lothian,,0,0,0,55.882,-2.638,7.2
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Scotland,Scottish Borders,,0,0,0,55.662,-2.964,8.2
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,55.333,-1.884,8.4
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,54.86,-2.21,6.9
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,54.857,-2.228,7.6
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.793,-2.01,15.9
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.609,-1.973,8.4
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.382,-0.897,9.6
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.13,-1.986,7.1
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.126,-2.004,10.1
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.579,-0.625,5.7
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.563,-0.599,8.1
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Conwy,,0,0,0,53.254,-3.892,89.5
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Conwy,,0,0,0,53.251,-3.883,136.1
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Conwy,,0,0,0,53.247,-3.904,82.9
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Conwy,,0,0,0,53.237,-3.897,53
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Conwy,,0,0,0,53.233,-3.969,11.4
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Denbighshire,,0,0,0,52.952,-3.262,13.4
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Ceredigion,,0,0,0,52.179,-3.796,9.9
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Ceredigion,,0,0,0,52.174,-3.818,10.4
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Ceredigion,,0,0,0,52.144,-3.9,15.8
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Powys,,0,0,0,51.861,-3.711,39.6
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Powys,,0,0,0,51.86,-3.715,52.3
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Powys,,0,0,0,51.856,-3.734,46.2
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,Wales,Powys,,0,0,0,51.855,-3.738,31.6
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,Somerset,,0,0,0,51.093,-3.658,9
+2019/02/27 12:35:00,AQUA_M-T,United Kingdom,England,Devon,,0,0,0,50.465,-4.097,16.1
+2019/08/13 12:40:00,AQUA_M-T,United Kingdom,England,Manchester,,0,0,0,53.526,-2.485,3.1
+2019/03/18 13:05:00,AQUA_M-T,United Kingdom,England,Cambridgeshire,,0,0,0,52.618,0.056,16.2
+2019/03/20 12:55:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.561,-0.599,3.4
+2019/03/25 13:10:00,AQUA_M-T,United Kingdom,England,Surrey,,0,0,0,51.369,-0.581,29
+2019/03/25 13:10:00,AQUA_M-T,United Kingdom,England,Surrey,,0,0,0,51.367,-0.598,26.6
+2019/03/25 13:10:00,AQUA_M-T,United Kingdom,England,Wiltshire,,0,0,0,51.256,-1.86,4.1
+2019/03/25 13:10:00,AQUA_M-T,United Kingdom,England,Hampshire,,0,0,0,50.768,-1.484,5.5
+2019/03/25 13:15:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,54.838,-2.208,6.4
+2019/03/25 13:15:00,AQUA_M-T,United Kingdom,England,Northumberland,,0,0,0,54.829,-2.205,5.8
+2019/03/25 13:15:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.789,-1.994,12.5
+2019/03/25 13:15:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.227,-1.818,9.2
+2019/03/25 13:15:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.227,-1.813,11.6
+2019/03/25 13:15:00,AQUA_M-T,United Kingdom,England,South Yorkshire,,0,0,0,53.486,-1.702,6
+2019/03/25 13:15:00,AQUA_M-T,United Kingdom,Wales,Wrexham,,0,0,0,52.921,-3.314,7
+2019/03/25 13:15:00,AQUA_M-T,United Kingdom,Wales,Powys,,0,0,0,51.924,-3.242,10.8
+2019/03/27 13:00:00,AQUA_M-T,United Kingdom,Scotland,East Lothian,,0,0,0,55.857,-2.6,12.2
+2019/03/27 13:00:00,AQUA_M-T,United Kingdom,England,Devon,,0,0,0,50.691,-3.919,5.8
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,Scotland,Scottish Borders,,0,0,0,55.665,-3.071,7.7
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,Scotland,Scottish Borders,,0,0,0,55.663,-3.087,7.4
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,Scotland,Dumfries and Galloway,,0,0,0,55.377,-3.784,10.6
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.774,-2,5.4
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.772,-2.016,8.2
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Durham,,0,0,0,54.456,-1.94,20.1
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.454,-1.955,4.4
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,Wales,Conwy,,0,0,0,53.192,-3.888,22
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,Wales,Conwy,,0,0,0,53.189,-3.905,11.3
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,Wales,Gwynedd,,0,0,0,53.166,-4.104,9.3
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Nottinghamshire,,0,0,0,52.793,-1.147,7.3
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Worcestershire,,0,0,0,52.095,-1.908,6
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Northamptonshire,,0,0,0,52.037,-0.897,8
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,Wales,Powys,,0,0,0,51.942,-3.146,6.1
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,Wales,Rhondda Cynon Taff,,0,0,0,51.599,-3.414,4.6
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Hampshire,,0,0,0,51.309,-1.118,4
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,East Sussex,,0,0,0,50.841,0.232,10.5
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,West Sussex,,0,0,0,50.817,-0.75,10.6
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Devon,,0,0,0,50.694,-3.913,5.2
+2019/03/29 12:50:00,AQUA_M-T,United Kingdom,England,Devon,,0,0,0,50.628,-3.876,8.7
+2019/07/03 12:50:00,AQUA_M-T,United Kingdom,England,Lancashire,,0,0,0,53.788,-2.645,3
+2019/07/03 12:50:00,AQUA_M-T,United Kingdom,England,Nottinghamshire,,0,0,0,52.947,-0.946,3.6
+2019/07/03 12:45:00,AQUA_M-T,United Kingdom,England,West Sussex,,0,0,0,51.132,-0.18,4.6
+2019/03/30 13:30:00,AQUA_M-T,United Kingdom,Wales,Ceredigion,,0,0,0,52.142,-3.822,16.1
+2019/03/30 13:30:00,AQUA_M-T,United Kingdom,Wales,Ceredigion,,0,0,0,52.132,-3.819,32.3
+2019/03/30 13:30:00,AQUA_M-T,United Kingdom,Wales,Powys,,0,0,0,51.923,-3.212,37.6
+2019/08/17 12:15:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.565,-0.592,10.9
+2019/03/31 12:35:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.329,-3.709,8.9
+2019/03/31 12:35:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.564,-0.605,7.5
+2019/03/31 12:35:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.561,-0.599,7.1
+2019/08/18 13:00:00,AQUA_M-T,United Kingdom,England,Cheshire,,0,0,0,53.099,-2.474,17
+2019/04/01 13:20:00,AQUA_M-T,United Kingdom,Wales,Carmarthenshire,,0,0,0,52.091,-3.835,6.3
+2019/04/01 13:20:00,AQUA_M-T,United Kingdom,England,Oxfordshire,,0,0,0,51.901,-1.216,5.5
+2019/08/20 12:45:00,AQUA_M-T,United Kingdom,England,Kent,,0,0,0,51.264,0.874,2.9
+2019/08/20 12:45:00,AQUA_M-T,United Kingdom,England,Hampshire,,0,0,0,51.194,-1.456,15.8
+2019/08/20 12:45:00,AQUA_M-T,United Kingdom,England,Hampshire,,0,0,0,51.191,-1.471,10
+2019/08/20 12:50:00,AQUA_M-T,United Kingdom,England,East Riding of Yorkshire,,0,0,0,53.776,-0.267,22.7
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.192,-3.82,8.8
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.022,-4.234,8.6
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.829,-5.479,12
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.819,-5.471,22.8
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.324,-3.703,9.7
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,Scotland,Aberdeenshire,,0,0,0,57.01,-3.183,10
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,Scotland,Aberdeenshire,,0,0,0,57.006,-3.203,11.3
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,Scotland,Argyll and Bute,,0,0,0,55.963,-5.208,13
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,England,East Riding of Yorkshire,,0,0,0,53.702,-0.121,11.3
+2019/04/09 12:30:00,AQUA_M-T,United Kingdom,England,East Riding of Yorkshire,,0,0,0,53.699,-0.139,25.9
+2019/04/10 13:15:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.096,-4.695,5.7
+2019/04/10 13:15:00,AQUA_M-T,United Kingdom,Scotland,West Lothian,,0,0,0,55.811,-3.684,6.1
+2019/04/10 13:15:00,AQUA_M-T,United Kingdom,Scotland,Argyll and Bute,,0,0,0,55.769,-5.382,11.2
+2019/04/10 13:15:00,AQUA_M-T,United Kingdom,Scotland,South Lanarkshire,,0,0,0,55.56,-3.557,6.5
+2019/04/10 13:15:00,AQUA_M-T,United Kingdom,Scotland,Dumfries and Galloway,,0,0,0,54.917,-4.687,6
+2019/04/10 13:15:00,AQUA_M-T,United Kingdom,England,Nottinghamshire,,0,0,0,53.121,-1.164,6.3
+2019/04/11 12:20:00,AQUA_M-T,United Kingdom,England,South Yorkshire,,0,0,0,53.391,-1.391,11
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.808,-5.381,8.1
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.658,-6.309,11.4
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.346,-5.34,7.9
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Scotland,Argyll and Bute,,0,0,0,56.03,-5.947,29.1
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Scotland,Dumfries and Galloway,,0,0,0,55.122,-4.552,12.5
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Scotland,Dumfries and Galloway,,0,0,0,55.117,-4.517,12.7
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Wales,Pembrokeshire,,0,0,0,51.68,-4.908,7.8
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Wales,Merthyr Tydfil,,0,0,0,51.672,-3.286,7.6
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Wales,Swansea,,0,0,0,51.589,-4.153,6.1
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Wales,Swansea,,0,0,0,51.587,-4.167,6.1
+2019/04/12 13:00:00,AQUA_M-T,United Kingdom,Wales,Bridgend,,0,0,0,51.509,-3.671,4.8
+2019/04/13 12:05:00,AQUA_M-T,United Kingdom,Scotland,Shetland Islands,,0,0,0,60.279,-1.559,33.4
+2019/04/13 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.566,-4.049,35.3
+2019/04/13 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.525,-4.712,53.4
+2019/04/13 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,56.878,-5.124,47.1
+2019/04/13 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,56.873,-5.114,97.9
+2019/04/13 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,56.865,-5.114,34.2
+2019/04/13 13:45:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.532,-4.696,59.8
+2019/04/13 13:45:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.53,-4.734,78.4
+2019/04/13 13:45:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.155,-4.526,18.7
+2019/04/13 13:45:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.154,-4.555,58.1
+2019/04/13 13:45:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.153,-4.559,46.3
+2019/04/13 13:45:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,56.88,-5.09,13.2
+2019/04/13 13:45:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,56.878,-5.122,24.5
+2019/04/14 12:50:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.369,-4.219,25.1
+2019/04/14 12:50:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.367,-4.236,18.4
+2019/04/14 12:50:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.352,-4.209,14.2
+2019/04/14 12:50:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.343,-4.203,9.2
+2019/04/15 13:30:00,AQUA_M-T,United Kingdom,England,Manchester,,0,0,0,53.679,-2.184,123.5
+2019/04/15 13:30:00,AQUA_M-T,United Kingdom,England,Lancashire,,0,0,0,53.677,-2.211,18.5
+2019/04/15 13:35:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.511,-4.716,30.9
+2019/04/15 13:35:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.905,-4.775,21.8
+2019/08/25 13:05:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.1,-3.309,7.6
+2019/08/26 12:10:00,AQUA_M-T,United Kingdom,England,Hartlepool,,0,0,0,54.609,-1.207,19.6
+2019/08/26 12:10:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.568,-0.6,14.1
+2019/08/26 12:10:00,AQUA_M-T,United Kingdom,England,Hampshire,,0,0,0,50.953,-1.861,25.5
+2019/08/26 12:10:00,AQUA_M-T,United Kingdom,England,Hampshire,,0,0,0,50.949,-1.851,33.6
+2019/04/17 13:20:00,AQUA_M-T,United Kingdom,Scotland,Scottish Borders,,0,0,0,55.566,-2.912,7.9
+2019/04/17 13:20:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.561,-0.597,8.2
+2019/04/17 13:20:00,AQUA_M-T,United Kingdom,England,Nottinghamshire,,0,0,0,53.086,-0.83,9.5
+2019/04/18 12:25:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.797,-5.35,30.7
+2019/04/18 12:25:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.795,-5.353,29.5
+2019/04/19 13:05:00,AQUA_M-T,United Kingdom,Scotland,Perthshire and Kinross,,0,0,0,56.289,-3.606,10.6
+2019/04/19 13:05:00,AQUA_M-T,United Kingdom,Scotland,East Dunbartonshire,,0,0,0,55.951,-4.066,4.7
+2019/04/19 13:05:00,AQUA_M-T,United Kingdom,Scotland,North Ayshire,,0,0,0,55.909,-5.187,44.8
+2019/04/19 13:05:00,AQUA_M-T,United Kingdom,Scotland,North Ayshire,,0,0,0,55.907,-5.203,49.5
+2019/04/19 13:10:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.733,-5.269,21.1
+2019/04/19 13:10:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.223,-4.696,5.3
+2019/04/19 13:10:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,56.89,-5.709,5.4
+2019/04/19 13:10:00,AQUA_M-T,United Kingdom,Scotland,Angus,,0,0,0,56.741,-3.306,9.1
+2019/04/19 13:10:00,AQUA_M-T,United Kingdom,Scotland,Perthshire and Kinross,,0,0,0,56.55,-3.792,5.1
+2019/08/27 12:55:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.564,-0.598,7.6
+2019/04/20 12:10:00,AQUA_M-T,United Kingdom,England,Lincolnshire,,0,0,0,52.818,-0.146,14.7
+2019/04/20 13:50:00,AQUA_M-T,United Kingdom,Scotland,Dumfries and Galloway,,0,0,0,54.844,-4.653,14
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Scotland,Aberdeenshire,,0,0,0,57.669,-2.103,14.5
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Scotland,Aberdeenshire,,0,0,0,57.667,-2.119,9.5
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.098,-3.307,78.7
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.096,-3.323,21.6
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.089,-3.303,4.4
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Scotland,Falkirk,,0,0,0,56.003,-3.683,5.4
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Scotland,North Ayshire,,0,0,0,55.878,-5.16,6.5
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Scotland,Scottish Borders,,0,0,0,55.789,-2.933,12.2
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,England,Manchester,,0,0,0,53.533,-2.45,5.9
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,Wales,Flintshire,,0,0,0,53.237,-3.025,41.5
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,England,Dorset,,0,0,0,50.812,-1.928,5.1
+2019/04/21 12:55:00,AQUA_M-T,United Kingdom,England,Dorset,,0,0,0,50.67,-2.331,5
+2019/04/22 12:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,56.696,-4.96,258.3
+2019/04/22 12:00:00,AQUA_M-T,United Kingdom,Northern Ireland,Fermanagh,,0,0,0,54.3,-7.307,31.4
+2019/04/22 12:00:00,AQUA_M-T,United Kingdom,England,Manchester,,0,0,0,53.601,-2.017,63.6
+2019/04/22 12:00:00,AQUA_M-T,United Kingdom,England,Manchester,,0,0,0,53.588,-2.004,135.7
+2019/04/22 12:00:00,AQUA_M-T,United Kingdom,England,Manchester,,0,0,0,53.587,-2.007,117
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Scotland,Moray,,0,0,0,57.439,-3.446,497.9
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,57.437,-3.479,131.1
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Scotland,Eilean Siar,,0,0,0,57.132,-7.301,13.4
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,56.989,-5.729,57
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Scotland,Stirling,,0,0,0,56.254,-4.034,9.6
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Scotland,Stirling,,0,0,0,56.252,-4.063,56
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Scotland,Fife,,0,0,0,56.096,-3.311,27.7
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Northern Ireland,Moyle,,0,0,0,55.095,-6.134,16.6
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Northern Ireland,Fermanagh,,0,0,0,54.309,-7.259,5
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Northern Ireland,Fermanagh,,0,0,0,54.307,-7.278,15.1
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Northern Ireland,Fermanagh,,0,0,0,54.261,-7.34,22.3
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Northern Ireland,Fermanagh,,0,0,0,54.259,-7.359,35
+2019/04/22 13:40:00,AQUA_M-T,United Kingdom,Northern Ireland,Fermanagh,,0,0,0,54.251,-7.337,25
+2019/08/29 12:40:00,AQUA_M-T,United Kingdom,England,Norfolk,,0,0,0,52.589,0.393,5.6
+2019/08/29 12:40:00,AQUA_M-T,United Kingdom,England,Cambridgeshire,,0,0,0,52.325,0.155,5.8
+2019/08/29 12:40:00,AQUA_M-T,United Kingdom,England,Cambridgeshire,,0,0,0,52.17,0.299,3.8
+2019/08/29 12:40:00,AQUA_M-T,United Kingdom,England,Essex,,0,0,0,51.858,0.506,6.8
+2019/08/29 12:40:00,AQUA_M-T,United Kingdom,England,Essex,,0,0,0,51.841,0.8,4.9
+2019/08/29 12:40:00,AQUA_M-T,United Kingdom,England,Essex,,0,0,0,51.617,0.689,16.9
+2019/08/29 12:40:00,AQUA_M-T,United Kingdom,England,Kent,,0,0,0,51.323,1.129,13.7
+2019/04/25 12:30:00,AQUA_M-T,United Kingdom,Scotland,Moray,,0,0,0,57.5,-3.565,19.9
+2019/04/25 14:10:00,AQUA_M-T,United Kingdom,Scotland,Moray,,0,0,0,57.507,-3.571,80.8
+2019/07/22 13:20:00,AQUA_M-T,United Kingdom,England,Redcar and Cleveland,,0,0,0,54.582,-1.115,12.8
+2019/05/04 12:25:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.563,-0.609,13.1
+2019/07/23 12:25:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.564,-0.6,14.2
+2019/07/23 14:00:00,AQUA_M-T,United Kingdom,England,West Sussex,,0,0,0,50.873,-0.822,43
+2019/05/10 13:25:00,AQUA_M-T,United Kingdom,England,Northamptonshire,,0,0,0,52.241,-0.889,6
+2019/05/12 13:10:00,AQUA_M-T,United Kingdom,Wales,Neath Port Talbot,,0,0,0,51.652,-3.548,10.5
+2019/05/12 13:10:00,AQUA_M-T,United Kingdom,Wales,Neath Port Talbot,,0,0,0,51.65,-3.563,35.2
+2019/05/12 13:10:00,AQUA_M-T,United Kingdom,England,Devon,,0,0,0,50.904,-3.48,2.9
+2019/05/13 12:15:00,AQUA_M-T,United Kingdom,England,Northamptonshire,,0,0,0,52.405,-0.733,14.9
+2019/05/13 12:15:00,AQUA_M-T,United Kingdom,England,Northamptonshire,,0,0,0,52.399,-0.722,15.5
+2019/05/13 12:20:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.539,-3.987,35.1
+2019/05/13 12:20:00,AQUA_M-T,United Kingdom,England,North Lincolnshire,,0,0,0,53.562,-0.603,9.2
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.548,-3.94,9.8
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.536,-3.953,26.7
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.528,-3.949,20.2
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.525,-3.966,53.7
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.514,-3.979,23.4
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.512,-3.996,55.6
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.505,-3.974,133.4
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.503,-3.992,259.5
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.501,-4.009,10.6
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.494,-3.987,13.3
+2019/05/14 13:00:00,AQUA_M-T,United Kingdom,England,East Riding of Yorkshire,,0,0,0,53.754,-0.858,5.6
+2019/05/15 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.481,-3.957,69.1
+2019/05/15 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.442,-3.999,305.2
+2019/05/15 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.441,-3.994,325.9
+2019/05/15 12:05:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.43,-3.984,523.8
+2019/05/15 12:05:00,AQUA_M-T,United Kingdom,England,Norfolk,,0,0,0,52.682,0.164,21.6
+2019/05/16 12:50:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.539,-3.987,38.1
+2019/05/16 12:50:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.536,-4.004,124.4
+2019/05/16 12:50:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.53,-3.982,32.6
+2019/05/16 12:50:00,AQUA_M-T,United Kingdom,Scotland,Highland,,0,0,0,58.427,-3.97,5.5
+2019/05/16 12:50:00,AQUA_M-T,United Kingdom,England,Manchester,,0,0,0,53.497,-2.519,4.2
+2019/05/16 12:50:00,AQUA_M-T,United Kingdom,Wales,Denbighshire,,0,0,0,53.007,-3.233,4.9
+2019/05/17 13:30:00,AQUA_M-T,United Kingdom,Scotland,Moray,,0,0,0,57.522,-3.614,31.8
+2019/05/17 13:30:00,AQUA_M-T,United Kingdom,Scotland,Moray,,0,0,0,57.51,-3.611,37.9
+2019/05/21 13:05:00,AQUA_M-T,United Kingdom,England,North Yorkshire,,0,0,0,54.351,-1.264,3.4
+2019/05/21 13:05:00,AQUA_M-T,United Kingdom,England,Cambridgeshire,,0,0,0,52.423,0.082,4.6
+2019/05/21 13:05:00,AQUA_M-T,United Kingdom,England,Hertfordshire,,0,0,0,51.944,-0.276,4.4
